@@ -1,14 +1,14 @@
 # The Eric Schmidt Privacy Policy
 
+**"If you have something that you don't want anyone to know, maybe you shouldn't be doing it in the first place" - Eric Schmidt**
+
+----
+
 This Master Privacy Policy (“Privacy Policy”) explains the collection, use, and disclosure of “personal information” by Mark Percival (“The Orginazation”).
 
 As used in this policy, “personal information” means information that would allow a party to identify you such as, for example, your name, address or location, telephone number or email address.
 
 By accessing the websites or using our applications, you are accepting and agreeing to the practices described in this Privacy Policy.
-
-## Our Principle
-
-"If you have something that you don't want anyone to know, maybe you shouldn't be doing it in the first place" - Eric Schmidt
 
 ## Personal Information We Collect
 
