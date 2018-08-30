@@ -4,7 +4,7 @@
 
 ----
 
-This Master Privacy Policy (“Privacy Policy”) explains the collection, use, and disclosure of “personal information” by Mark Percival (“The Orginazation”).
+This Master Privacy Policy (“Privacy Policy”) explains the collection, use, and disclosure of “personal information” by Mark Percival (“The Organization”).
 
 As used in this policy, “personal information” means information that would allow a party to identify you such as, for example, your name, address or location, telephone number or email address.
 
@@ -40,11 +40,11 @@ Depends on how much space The Organization has, but we reserve the right to reta
 
 ## Reorganization or Spin-Offs
 
-We may transfer some or all of your personal and/or non personal browsing information to a third party as a result of a reorganization, spin-off or similar transaction. Upon such transfer, the acquirer’s privacy policy will apply.
+We may transfer some or all of your personal and/or non-personal browsing information to a third party as a result of a reorganization, spin-off or similar transaction. Upon such transfer, the acquirer’s privacy policy will apply.
 
 ## Children
 
-The Organization's websites, applications and products may not be used by anyone under the age of 13 for any reason.
+The Organization's websites, applications, and products may not be used by anyone under the age of 13 for any reason.
 
 
 ## Special Note to International Users
